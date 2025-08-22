@@ -1,0 +1,12 @@
+.header {
+    grid-area: h;
+    background-color: rgb(175, 224, 225);
+    border-radius: 3px;
+}
+.header img {
+    width: 50px;
+}
+.loginBlock {
+
+    color: aliceblue;
+}

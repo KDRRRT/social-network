@@ -1,0 +1,33 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(175, 224, 225);
+    border-radius: 3px;
+    height: 600px;
+}
+.item {
+    margin: 10px;
+}
+.item a{
+    color: #333;
+    font-size: 16px;
+    margin-left: 6px;
+    margin-top: 6px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.activeLink {
+    text-decoration: underline;
+
+}
+.friends {
+    margin: 30px;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+    margin-top: 90px;
+}
+.nav img {
+    width: 40px;
+    border-radius: 25px;
+    margin: 12px;
+}

@@ -1,0 +1,20 @@
+.descriptionBlock {
+    padding: 10px;
+}
+.mainPhoto {
+    width: 250px;
+}
+.contact {
+    margin-left: 20px;
+    color: #333;
+}
+.field {
+    margin-left: 5px;
+    box-sizing: border-box;
+    width: 20%;
+}
+Form {
+display: block;
+margin-right: auto;
+  margin-left: auto;
+}

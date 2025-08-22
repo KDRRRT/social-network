@@ -1,0 +1,32 @@
+.dialogs {
+display: grid;
+grid-template-columns: 3fr 10fr;
+}
+
+.dialogsItems {
+padding: 10px;
+}
+
+.dialog a{
+    display: flex; 
+    align-items: center;
+}
+.dialog img {
+    width: 30px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.messages {
+padding: 10px;
+}
+
+.message {
+
+}
+.textArea {
+    margin-top: 150px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+}
